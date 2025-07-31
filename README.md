@@ -1,7 +1,5 @@
 # Automated Python Linter with Ruff ⚙️
 
-![Workflow Status](https://github.com/varunventra/Push-Ruff-Action/actions/workflows/linter.yml/badge.svg)
-
 A simple GitHub Action workflow that automatically lints and formats Python code using Ruff on every push to the `main` branch. This is a learning project to understand repository automation and CI/CD basics for code quality.
 
 ## How to Use This Workflow
